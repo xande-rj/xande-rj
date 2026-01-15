@@ -1,13 +1,10 @@
 <!-- Header -->
+<div align="center">
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=green&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Alexandre+Silva+Felismino;Tenho+22+anos;Sou+do+Brasil,+RJ;Estudo+Análise+e+Desenvolvimento+de+Sistemas;+Seja+bem+vindo!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=green&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Alexandre+Silva+Felismino;Tenho+24+anos;Sou+do+Brasil,+RJ;Estudo+Análise+e+Desenvolvimento+BackEnd+Java;+Seja+bem+vindo!)](https://git.io/typing-svg)
 
-<div align="center">
-  <!-- GitHub Readme Stats (card) -->
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=xande-rj&show_icons=true&count_private=true&hide_border=true&theme=transparent&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Alexandre's GitHub stats" />
-  <!-- Top Languages (compact) -->
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xande-rj&layout=compact&hide_border=true&langs_count=8&theme=transparent" alt="Top languages" />
+
 </div>
 
 ---
