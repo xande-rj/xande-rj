@@ -1,41 +1,97 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<div align="center"> <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=xande-rj&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="GitHub stats" /> <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xande-rj&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" /> </div>
+Sobre mim
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=green&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Alexandre+Silva+Felismino;I'm+22+years+old;I+from+Brasil,+RJ;I+study+analysis+and+systems+development+at+Unisuam;Be+Welcome!+:%29)](https://git.io/typing-svg)
+Sou desenvolvedor de software com foco em Back-End (Java / Spring Boot), com experiência no desenvolvimento de APIs REST, autenticação/autorizações com Spring Security + JWT, integração com bancos relacionais (principalmente PostgreSQL) e boas práticas de testes automatizados. Tenho também experiência prática com Node.js (TypeScript), containerização com Docker, pipelines de CI/CD e desenvolvimento front-end com React quando necessário.
+Objetivo: atuar como Desenvolvedor Back-End em projetos desafiadores que permitam contribuir com inovações e aprimorar minhas habilidades. 
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=xande-rj&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xande-rj&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
+Principais habilidades
 
-### Main skills:
- ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Html5](https://img.shields.io/badge/-Html5-0D1117?style=for-the-badge&logo=Html5&logoColor=orange&labelColor=0D1117)&nbsp; 
-![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=PHP&logoColor=blue&labelColor=0D1117)&nbsp; 
-![JS](https://img.shields.io/badge/-Javascript-0D1117?style=for-the-badge&logo=JAVASCRIPT&logoColor=yellow&labelColor=0D1117)&nbsp; 
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+Backend
 
-### Tools:
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
-<!-- ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp; -->
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
+Java (Spring Boot, Spring Security, JPA / Hibernate)
 
-### Other Knowledge:
-![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
-![Docker](https://img.shields.io/badge/-docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117)&nbsp;
-  
-### Studying in this moment:
-![Nestjs](https://img.shields.io/badge/-nestjs-0D1117?style=for-the-badge&logo=nestjs&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Laravel](https://img.shields.io/badge/-laravel-0D1117?style=for-the-badge&logo=laravel&labelColor=0D1117&textColor=0D1117)&nbsp;
+Node.js (Express, NestJS)
 
-  <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{seiya56}/count.svg" /></p> 
-<br></div>
-  
+Autenticação / Autorização: JWT, refresh tokens, controle por roles
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>****
+Frontend
+
+React (consumo de APIs REST; compreensão de UX/UI)
+
+JavaScript / TypeScript (base sólida; facilidade para Angular)
+
+Banco de dados
+
+PostgreSQL, MySQL, MongoDB
+
+Modelagem relacional e consultas SQL
+
+DevOps & Qualidade
+
+Docker, Git, GitHub Actions (pipelines CI/CD)
+
+Testes: JUnit, Jest (testes unitários e integração)
+
+Ambientes Linux (Ubuntu)
+
+Ferramentas
+
+Visual Studio Code, GitHub, Figma (noções de design), Microsoft Office
+
+Atualmente estudando
+
+NestJS, Laravel
+
+Projetos em destaque
+
+Resumo de projetos implementados durante minha experiência, descritos no meu currículo. 
+
+Serviço de Autenticação — Spring Boot
+
+Spring Boot + Spring Security + JWT + JPA/Hibernate
+
+Cadastro, login, refresh token e controle de acesso por roles
+
+Persistência em PostgreSQL e testes unitários
+
+Documentação dos endpoints (OpenAPI / README do projeto)
+
+Encurtador de URL — Spring Boot
+
+API RESTful para encurtar URLs com identificadores únicos
+
+Mapeamento ORM (Hibernate/JPA), validações e tratamento de erros
+
+Persistência em PostgreSQL
+
+API RESTful — Node.js (TypeScript)
+
+API em TypeScript com validações, autenticação JWT e testes automatizados
+
+Deploy containerizado com Docker e pipeline CI/CD
+
+(No meu repositório você encontra os códigos desses projetos com README específico, instruções para rodar localmente e exemplos de requests.)
+
+Formação
+
+Bacharel em Análise e Desenvolvimento de Sistemas — Universidade Unisuam (2022 — 2024). 
+
+Certificações e idiomas
+
+AWS Certified Cloud Practitioner (em andamento)
+
+Oracle PL/SQL Fundamentals
+
+Idiomas: Português (nativo) — Inglês (intermediário). 
+
+Contato
+
+✉️ alexandrefelismino@gmail.com
+
+📱 +55 (21) 99126-7959
+
+🔗 LinkedIn: www.linkedin.com/in/alexandresilvafelismino
+
+🔗 GitHub: https://github.com/xande-rj
+(Links também disponíveis no meu currículo). 
