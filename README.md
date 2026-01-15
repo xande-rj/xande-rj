@@ -1,11 +1,11 @@
 <!-- Header -->
-<div align="center">
+
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=green&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Alexandre+Silva+Felismino;Tenho+24+anos;Sou+do+Brasil,+RJ;Estudo+Análise+e+Desenvolvimento+BackEnd+Java;+Seja+bem+vindo!)](https://git.io/typing-svg)
 
 
-</div>
+
 
 ---
 
