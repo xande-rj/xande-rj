@@ -80,7 +80,4 @@ Desenvolvedor focado em **Back-End (Java / Spring Boot)** com experiência em co
 
 ---
 
-<p align="center"><b>Contador de visitas</b></p>
-<p align="center"><img src="https://profile-counter.glitch.me/xande-rj/count.svg" /></p>
-
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer)
